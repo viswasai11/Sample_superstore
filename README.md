@@ -1,6 +1,6 @@
 # Sample Superstore Analysis
 
-###This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
+This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
 Superstore Analysis aim to provide insight into how best to increase sales and reach goals. The objective is to monitor how many orders placed and improve customer satisfaction. 
 
 # Tools Used:
